@@ -3,7 +3,7 @@
 #include"Developer.h"
 class JavaDev : public Developer
 {
-
+public:
 	JavaDev()
 	{
 #ifdef DEBUG
